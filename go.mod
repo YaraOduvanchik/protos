@@ -1,3 +1,3 @@
-module module github.com/YaraOduvanchik/protos
+module github.com/YaraOduvanchik/protos
 
 go 1.23
